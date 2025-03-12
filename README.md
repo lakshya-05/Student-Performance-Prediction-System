@@ -16,6 +16,7 @@ This project explores how different factors influence student performance. It us
 ## 📂 Files in This Project
 
 - `Stu_Performance_Prediction.ipynb` - Jupyter Notebook with the full project, including data processing, model training, and evaluation.
+- `Student_Performance.csv` - Dataset containing student performance data.
 
 ## 🚀 How to Use
 
