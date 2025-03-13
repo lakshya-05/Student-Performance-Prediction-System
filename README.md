@@ -33,3 +33,9 @@ This project explores how different factors influence student performance. It us
 ## 📊 Results
 
 The model provides insights into factors affecting student performance and makes predictions based on input features.
+
+
+##
+
+Note : The 3D-Plot will not be shown by github (Not Supported)
+To view the 3D plot, use with availablity of a Python module called "plotly"
